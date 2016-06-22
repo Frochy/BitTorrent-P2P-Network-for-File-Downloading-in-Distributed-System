@@ -10,5 +10,5 @@ server 8821->client1  server 8822->client2  server 8824-> client3  server 8828->
 client1 8823->client5   client2 8825-> client1   client3 8826-> client2   client4 8827->client3   client5 8829->client4
 
 2:Operation flows:
-First,depress p2p.zip and there will be six directories containing codes of server and clients. Directory of server also contains one file which will be shared.
+First, there are six directories containing codes of server and clients. Directory of server also contains one file which will be shared.
 Second, run server.java,client1.java,client2.java,client3.java,client4.java,client5.java one by one.
